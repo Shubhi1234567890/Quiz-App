@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">quizApp</string>
+    <string name="shubhi_katiyar">Shubhi Katiyar</string>
+    <string name="shubhik050_gmail_com">shubhik050@gmail.com</string>
+    <string name="option_1">Option 1</string>
+    <string name="hello">hello!</string>
+    <string name="this_will_be_the_question">This will be the question</string>
+    <string name="option_2">option 2</string>
+    <string name="option_4">option 4</string>
+    <string name="option_3">option 3</string>
+    <string name="quit">Quit</string>
+    <string name="next_question">Next Question</string>
+    <string name="total_questions">Total Questions</string>
+    <string name="your_score_is">Your Score is:</string>
+</resources>
